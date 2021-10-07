@@ -1,2 +1,2 @@
 # Tindog
-Built on CSS, HTML and Bootstrap
+Built on CSS, HTML 
